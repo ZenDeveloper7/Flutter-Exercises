@@ -172,18 +172,23 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
           ),
           PopupMenuItem<String>(
             child: Text('New broadcast'),
+            value: 'New broadcast',
           ),
           PopupMenuItem<String>(
             child: Text('Linked Devices'),
+            value: 'Linked Devices',
           ),
           PopupMenuItem<String>(
             child: Text('Starred Messages'),
+            value: 'Starred Messages',
           ),
           PopupMenuItem<String>(
             child: Text('Payments'),
+            value: 'Payments',
           ),
           PopupMenuItem<String>(
-            child: Text('Settins'),
+            child: Text('Settings'),
+            value: 'Settings',
           ),
         ];
         break;
