@@ -21,7 +21,6 @@ class MyApp extends StatelessWidget {
               tabBarTheme: const TabBarTheme(labelColor: Colors.white),
               textTheme: const TextTheme(
                   headline6: TextStyle(color: Colors.white, fontSize: 16.0),
-                  subtitle1: TextStyle(fontWeight: FontWeight.bold),
                   subtitle2: TextStyle(color: Colors.grey),
                   button: TextStyle(color: Colors.white)),
               bottomAppBarColor: Colors.white)

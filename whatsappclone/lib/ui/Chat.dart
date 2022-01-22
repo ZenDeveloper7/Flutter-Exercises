@@ -73,6 +73,7 @@ class _ChatState extends State<Chat> {
               ListTile(
                 leading: CircleAvatar(
                   maxRadius: 25.0,
+                  backgroundColor: Colors.black,
                   backgroundImage:
                       CachedNetworkImageProvider(messageData[index].imageUrl),
                 ),
