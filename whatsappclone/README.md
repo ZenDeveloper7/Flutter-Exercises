@@ -1,6 +1,6 @@
-# whatsappclone
+# Flutter Whatsapp Clone
 
-A new Flutter project.
+Just a simple repo of cloning whatsapp UI using Flutter. 
 
 ## Getting Started
 
